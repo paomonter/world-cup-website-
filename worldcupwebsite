@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Experience the Summit at Breckenridge!</title>
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="starting.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+<body>
+  <div class="navigation">
+    <ul>
+      <a class="nav-link">The Lodge</a>
+      <a class="nav-link">Our Ski Runs</a>
+      <a class="nav-link logo">The Summit</a>
+      <a class="nav-link">How to Get Here</a>
+      <a class="nav-link">Contact</a>
+    </ul>
+  </div>
+
+  <div class="banner">
+    <div class="banner-text">
+      <h1>Experience</h1>
+      <h2>The Summit</h2>
+      <a href="#" class="btn">Get on the mountain</a>
+    </div>
+  </div>
